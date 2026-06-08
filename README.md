@@ -40,6 +40,7 @@ DemoQA (ToolsQA)
 https://demoqa.com
 
 ## Estrutura do Projeto
+[securityTests.cy.js](https://github.com/tatidutrab/tcc-security-tests/blob/master/cypress/e2e/securityTests.cy.js)
 
 ```text
 cypress/
