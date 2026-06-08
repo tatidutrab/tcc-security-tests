@@ -44,7 +44,7 @@ https://demoqa.com
 ```text
 cypress/
 └── e2e/
-    └── securityTests.cy.js
+    └── [securityTests.cy.js](https://github.com/tatidutrab/tcc-security-tests/blob/master/cypress/e2e/securityTests.cy.js)
 
 package.json
 README.md
