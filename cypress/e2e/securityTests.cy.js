@@ -1,5 +1,5 @@
 describe('Testes automatizados de segurança front-end', () => {
-  const baseUrl = 'https://demoqa.com';
+  const baseUrl = 'https://demoqa.com'; 
 
   beforeEach(() => {
     cy.clearLocalStorage();
