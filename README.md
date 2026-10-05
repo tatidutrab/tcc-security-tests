@@ -1,6 +1,6 @@
 # TCC Security Tests
 
-Projeto desenvolvido como parte do Trabalho de Conclusão de Curso do MBA em Engenharia de Software EAD da USP/ESALQ.
+Projeto desenvolvido para o Trabalho de Conclusão de Curso (TCC) do MBA em Engenharia de Software EAD da USP/ESALQ.
 
 ## Objetivo
 
